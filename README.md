@@ -25,17 +25,25 @@ El proyecto se desarrolla en diferentes versiones para demostrar la evolución d
                         Medallion         Power BI
 ```
 
+
+
 ## Repositorios
 
-| Repositorio | Descripción | Tecnologías principales |
-|---|---|---|
-| [urbanflow-data-engineerig](https://github.com/yagoalonsodev/urbanflow-v1) | Primera implementación de la plataforma de Data Engineering | Python, PostgreSQL, Docker, Airflow |
-| [urbanflow-databricks](https://github.com/yagoalonsodev/urbanflow-databricks) | Evolución de UrbanFlow utilizando una arquitectura Lakehouse con Databricks | Databricks, PySpark, Delta Lake, SQL |
-| [urbanflow-fabric](https://github.com/yagoalonsodev/urbanflow-fabric) | Implementación de UrbanFlow sobre Microsoft Fabric | Microsoft Fabric, OneLake, PySpark, SQL, Power BI |
+
+| Repositorio                                                                   | Descripción                                                                 | Tecnologías principales                           |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------- |
+| [urbanflow-data-engineering](https://github.com/yagoalonsodev/urbanflow-data-engineering)   | Primera implementación de la plataforma de Data Engineering                 | Python, PostgreSQL, Docker, Airflow               |
+| [urbanflow-databricks](https://github.com/yagoalonsodev/urbanflow-databricks) | Evolución de UrbanFlow utilizando una arquitectura Lakehouse con Databricks | Databricks, PySpark, Delta Lake, SQL              |
+| [urbanflow-fabric](https://github.com/yagoalonsodev/urbanflow-fabric)         | Implementación de UrbanFlow sobre Microsoft Fabric                          | Microsoft Fabric, OneLake, PySpark, SQL, Power BI |
+
 
 > Los enlaces se actualizarán cuando los repositorios correspondientes estén creados.
 
+
+
 ## Evolución del proyecto
+
+
 
 ### V1 — Data Engineering local
 
@@ -52,9 +60,11 @@ Incluye:
 - Modelado de datos
 - Procesos ETL/ELT
 
-[Ver UrbanFlow V1 →](https://github.com/yagoalonsodev/urbanflow-v1)
+[Ver UrbanFlow V1 →](https://github.com/yagoalonsodev/urbanflow-data-engineering)
 
 ---
+
+
 
 ### V2 — Databricks & Lakehouse
 
@@ -76,6 +86,8 @@ Principales tecnologías y conceptos:
 [Ver UrbanFlow Databricks →](https://github.com/yagoalonsodev/urbanflow-databricks)
 
 ---
+
+
 
 ### V3 — Microsoft Fabric
 
@@ -113,7 +125,11 @@ El proyecto busca demostrar conocimientos prácticos en:
 - Cloud Data Platforms
 - Analytics
 
+
+
 ## Stack tecnológico
+
+
 
 ### Data Engineering
 
@@ -123,11 +139,15 @@ El proyecto busca demostrar conocimientos prácticos en:
 - PySpark
 - Apache Airflow
 
+
+
 ### Databases & Storage
 
 - PostgreSQL
 - Delta Lake
 - OneLake
+
+
 
 ### Cloud & Data Platforms
 
@@ -135,11 +155,15 @@ El proyecto busca demostrar conocimientos prácticos en:
 - Databricks
 - Microsoft Fabric
 
+
+
 ### DevOps
 
 - Docker
 - Git
 - GitHub Actions
+
+
 
 ## Autor
 
